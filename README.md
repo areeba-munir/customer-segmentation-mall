@@ -78,7 +78,8 @@ customer-segmentation-mall/
 ## How to Run
 
 ### 1. Clone the repository
+Open your terminal or Anaconda Prompt and run:
+
 ```bash
 git clone https://github.com/areeba_munir/customer-segmentation-mall.git
 cd customer-segmentation-mall
-
