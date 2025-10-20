@@ -75,37 +75,10 @@ customer-segmentation-mall/
 
 ---
 
-## How to Run ### 1. Clone the repository
-bash
+## How to Run
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/areeba_munir/customer-segmentation-mall.git
 cd customer-segmentation-mall
-2. Install dependencies
-pip install -r requirements.txt
-3. Using conda
-conda env create -f environment.yml
-conda activate custseg
-3. Launch Jupyter Notebook
-jupyter notebook
-4. Run the notebook
-
-Follow the step-by-step cells to:
-
-Explore data
-
-Scale features
-
-Apply clustering
-
-Visualize and analyze clusters
-5. Run the notebook
-
-Follow the step-by-step cells to:
-
-Explore data
-
-Scale features
-
-Apply clustering
-
-Visualize and analyze clusters
 
